@@ -1,0 +1,35 @@
+/* ---------from left to right ------------- */
+.animated-right.visible {
+  opacity: 1;
+  transform: translateX(0);
+  transition: opacity 2s ease, transform 1s ease;
+}
+
+.animated-right {
+  opacity: 0;
+  transform: translateX(-20px);
+}
+
+/* -----------from right to left------------------ */
+.animated-left.visible {
+  opacity: 1;
+  transform: translateX(0);
+  transition: opacity 2s ease, transform 1s ease;
+}
+
+.animated-left {
+  opacity: 0;
+  transform: translateX(20px);
+}
+
+/* -----from bottom to top------- */
+.animated-top {
+  opacity: 0;
+  transform: translateY(0px);
+  transition: opacity 1.25s ease, transform 1s ease;
+}
+
+.animated-top.visible {
+  opacity: 1;
+  transform: translateY(-20px);
+}

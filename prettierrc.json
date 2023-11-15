@@ -1,0 +1,8 @@
+{
+    "plugins": ["prettier-plugin-tailwindcss"],
+    "tailwindCSS.purge": ["./src/**/*.{js,jsx,ts,tsx}"],
+    "semi": true,
+    "singleQuote": true,
+    "tabWidth": 2
+  }
+  

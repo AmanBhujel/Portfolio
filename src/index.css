@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* //Monteserrat------ */
+@import url('https://fonts.googleapis.com/css2?family=Mooli&display=swap');
+
+/* Open Sans */
+@import url('https://fonts.googleapis.com/css2?family=Mooli&display=swap');
+
+/* cursive */
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&display=swap');
+
+/* Sub-Heading */
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+
+
