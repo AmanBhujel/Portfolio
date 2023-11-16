@@ -21,3 +21,15 @@ Welcome to my portfolio! This website is designed to showcase my skills and proj
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/YourUsername/YourPortfolio.git
+
+2. **Navigate to directory:**
+   ```bash
+   cd (*Your Directory Name*)
+
+3. **Installing the dependencies:**
+   ```bash
+   npm install
+
+4. **Running the project:**
+   ```bash
+   npm start
