@@ -12,7 +12,7 @@ const projects = [
             ' A seamless shopping journey with Nephara, where innovation meets style. The highlight is the cloth customization feature, allowing users to personalize their purchases.',
         longDescription: 'Nephara, showcases my expertise in web development. With a focus on user engagement, the site features a unique cloth customization option implemented using Canvas and Fabric.js. The platform integrates Nodemailer for efficient email communication and employs Redis caching to enhance loading times and overall user experience. The website boasts a responsive design, ensuring accessibility across devices.Nephara highlights my proficiency in utilizing various technologies to create a seamless and visually appealing online shopping experience. ',
         githubLink: 'https://github.com/AmanBhujel/Ecommerce',
-        demoLink: '#'
+        demoLink: 'https://ecommerce-lime-delta.vercel.app'
     },
     {
         image: Weather,
