@@ -33,3 +33,30 @@ Welcome to my portfolio! This website is designed to showcase my skills and proj
 4. **Running the project:**
    ```bash
    npm start
+
+## Project Photos:
+
+![Portfolio](https://github.com/AmanBhujel/Portfolio/assets/132144406/d098a897-4ebc-42be-8596-9f02616e2955)
+
+
+![PortfolioDark](https://github.com/AmanBhujel/Portfolio/assets/132144406/f6b06b9b-5a8c-43d4-b4c3-892b1c3ce413)
+
+
+![Skills](https://github.com/AmanBhujel/Portfolio/assets/132144406/f21e12b7-3604-4dae-9dba-dcd3e09dd2d6)
+
+
+![Projects](https://github.com/AmanBhujel/Portfolio/assets/132144406/36c2ae91-4bc8-4f73-beec-de33abc0b4ce)
+
+
+![FooterPortfolio](https://github.com/AmanBhujel/Portfolio/assets/132144406/0dea0356-b60d-4ae5-a6fb-041b6b1884fc)
+
+
+
+
+
+
+
+
+
+
+
